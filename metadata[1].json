@@ -1,0 +1,6 @@
+{
+  "name": "Digital Diary",
+  "description": "A professional, private digital diary and personal journal with rich writing, mood tracking, calendar views, and insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
