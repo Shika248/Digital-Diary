@@ -47,6 +47,7 @@ Responsive Web Design
 The goal of Digital Diary is to provide a simple and engaging platform for users to document their everyday experiences, track emotions, maintain journaling habits, and reflect on personal growth.
 
 📂 Project Structure
+
 Digital-Diary/
 │
 ├── index.html
@@ -72,6 +73,7 @@ AI-powered journaling suggestions
 Advanced mood analytics
 Export diary entries as PDF
 Mobile application version
+
 📌 Disclaimer
 
 Digital Diary is intended for personal journaling and reflection. Users should avoid storing highly sensitive information unless appropriate security and encryption measures are implemented.
